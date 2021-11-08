@@ -1,0 +1,1 @@
+const persons = ["Sophie","Lucky","Wandiloe","Andisiwe","Mduzudi","Kagisho","Happy",];
