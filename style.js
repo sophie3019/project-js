@@ -3,6 +3,6 @@ const persons = ["Sophie","Lucky","Wandiloe","Andisiwe","Mduzudi","Kagisho","Hap
 const display = document.getElementById("display");
 
 for (let i = 0; i < persons.length; i++) {
-    display.innerHTML += "<li>" + persons [0]
+    display.innerHTML += "<li>" + persons[i]
     
 }
